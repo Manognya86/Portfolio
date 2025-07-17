@@ -116,7 +116,7 @@ const config = {
             name: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
             issuer: "Oracle",
             date: "July 2025",
-            badge: "./assets/certificates/Oracle Cloud Infrastructure 2025 Certified Data Science Professional.jpeg"
+            badge: "./assets/certificates/Oracle Cloud Infrastructure 2025 Certified Data Science Professional Badge.jpg"
         },
         {
             name: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
