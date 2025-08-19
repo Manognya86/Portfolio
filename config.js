@@ -115,8 +115,8 @@ const config = {
         {
             name: "Oracle AI Vector Search Certified Professional",
             issuer: "Oracle",
-            date: "Mar 2025",
-            badge: "./assets/certificates/Oracle AI Vector Search Certified Professional Certificate.jpg"
+            date: "Aug 2025",
+            badge: "./assets/certificates/Oracle AI Vector Search Certified Professional badge.jpg"
         },
         {
             name: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
@@ -279,4 +279,5 @@ const config = {
 };
 
 export default config;
+
 
